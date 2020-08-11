@@ -453,6 +453,7 @@ body{
 .comment-section{
 	font-weight:500;
 	padding: 2px;
+	margin-bottom: 8px;
 }
 
 .cmnt-text{
